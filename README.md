@@ -34,3 +34,15 @@ A modern, responsive single-page website built with **React** and **Tailwind CSS
 
 ## Project Structure
 
+
+src/
+├── App.jsx
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Services.jsx
+│   ├── About.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+└── assets/
+    └── logo.png
